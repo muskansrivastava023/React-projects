@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+
+:root{
+
+}
+*{
+    margin: 0;
+}
+body{
+    font-family: "Playwrite DK Loopet", cursive;
+}
