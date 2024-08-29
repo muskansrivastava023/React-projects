@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html5Icon.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/cssIcon.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/JsIcon2.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/reactIcon.png"
+    },
+    
+    {
+      "title": "JQuery",
+      "imageSrc": "skills/JQueryIcon.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/PythonIcon.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysqlIcon.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/cLogo.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/gitIcon.png"
+    }
+  ]

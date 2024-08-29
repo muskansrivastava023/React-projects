@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Dice Matching Game",
+      "imageSrc": "sideProjectSs/diceMatchingGameSS.png",
+      "description": "Developed a dice game which incorporates random number generation, game logic for matching dice, and also captures score thus, increasing user interaction.",
+      "skills": ["HTML", "CSS", "JS","React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/muskansrivastava023/React-projects/tree/main/Dice_Matching_Game"
+    },
+    {
+      "title": "Calculator",
+      "imageSrc": "sideProjectSs/calculatorSS.png",
+      "description": "Created a fully functional calculator which can handle basic arithmetic operations and includes features such as clear input field, deleting individual character and keyboard support.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/muskansrivastava023/HTML-CSS-JS-Projects/tree/main/Calculator"
+    },
+    {
+      "title": "Tic-Tac-Toe",
+      "imageSrc": "sideProjectSs/ticTacToeSS.png",
+      "description": "Developed an interactive game, implementing logic for player turns, win detection, and game reset, thus, enhancing user experience.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/muskansrivastava023/HTML-CSS-JS-Projects/tree/main/Tic-Tac-Toe"
+    }
+
+  ]
