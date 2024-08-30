@@ -52,6 +52,7 @@
     .menuButton{
         display: block;
         cursor: pointer;
+        height: 43px;
     }
 
     .menuItems{
