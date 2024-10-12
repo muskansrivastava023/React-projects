@@ -1,27 +1,15 @@
 [
-    {
-      "title": "Dice Matching Game",
-      "imageSrc": "sideProjectSs/diceMatchingGameSS.png",
-      "description": "Developed a dice game which incorporates random number generation, game logic for matching dice, and also captures score thus, increasing user interaction.",
-      "skills": ["HTML", "CSS", "JS","React"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/muskansrivastava023/React-projects/tree/main/Dice_Matching_Game"
-    },
-    {
-      "title": "Calculator",
-      "imageSrc": "sideProjectSs/calculatorSS.png",
-      "description": "Created a fully functional calculator which can handle basic arithmetic operations and includes features such as clear input field, deleting individual character and keyboard support.",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/muskansrivastava023/HTML-CSS-JS-Projects/tree/main/Calculator"
-    },
-    {
-      "title": "Tic-Tac-Toe",
-      "imageSrc": "sideProjectSs/ticTacToeSS.png",
-      "description": "Developed an interactive game, implementing logic for player turns, win detection, and game reset, thus, enhancing user experience.",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/muskansrivastava023/HTML-CSS-JS-Projects/tree/main/Tic-Tac-Toe"
-    }
+  {
+    "title": "Catering Rewards",
+    "imageSrc": "sideProjectSs/crSs.png",
+    "description": "Successfully delivered end-to-end solutions for catering rewards, aimed at fostering customer loyalty and increasing company profits.Developed and maintained three portals (Admin, Restaurant, and Customer). Leveraged a serverless architecture and  deploy it, implemented a robust reward system and automated order processing.",
+    "skills": ["React", "Nodejs", "AWS","Puppeteer"]
+  },
+  {
+    "title": "Founder Crate",
+    "imageSrc": "sideProjectSs/fcSs.png",
+    "description": "An efficient Fundraising CRM and Investor Relation Management(IRM) suite that revolutionizes investor interactions and optimizes fundraising processes. Simplified investor discovery and management, streamlined investor interactions with a structured system for updates and engagement tracking, enhanced security and compliance and also, centralized investor management.",
+    "skills": ["React", "Nodejs", "AWS","MySQL"]
+  }
 
-  ]
+]

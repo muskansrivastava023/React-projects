@@ -1,37 +1,25 @@
 [
-    {
-      "role": "Frontend and Backend Engineer",
-      "organisation": "TCS",
-      "startDate": "July, 2022",
-      "endDate": "Present",
-      "experiences": ["Created responsive and dynamic user interfaces using HTML, CSS, and JavaScript, with frameworks like React.js and libraries like jQuery.", 
-      "Managed data using MySQL database. Streamlined backend processes to improve system efficiency and solve defects and bugs related to data reports and application UI.",
-    "Worked closely with designers, product managers, and QA teams to deliver projects on schedule. ",
-    "During ILP, led a team of 9 associates to organize and host an online event. Recognized for high performance during ILP training."
-    ],
-      "imageSrc": "experience/tcsIcon.png"
-    },
-    {
-      "role": "Software Intern",
-      "organisation": "Softevia LLP",
-      "startDate": "Oct 2021",
-      "endDate": "Apr 2022",
-      "experiences": ["Was in continuous touch with clients to understand their requirements, ensuring that the project aligned with their needs.", 
-      "Worked on developing the frontend using React, contributing to the creation of responsive and dynamic web applications.",
-    "Led a team during project development, using Jira to manage people and tasks effectively , ensuring timely delivery.",
-    "Utilized karate for testing to ensure the functionality and reliability of the application, identifying and fixing bugs."
-    ],
-      "imageSrc": "experience/tcsIcon.png"
-    },
-    {
-      "role": "Software Developer and Tester",
-      "organisation": "Silihat LLP",
-      "startDate": "May 2021",
-      "endDate": "Oct 2021",
-      "experiences": ["Conducted thorough testing of software applications using Selenium, identifying and documenting bugs, and ensuring quality before deployment.", 
-      "Led a team of developers and testers to ensure the timely launch of the project, coordinating tasks and managing deadlines."
-   
-    ],
-      "imageSrc": "experience/tcsIcon.png"
-    }
+  {
+    "role": "Frontend and Backend Engineer",
+    "organisation": "TCS",
+    "startDate": "July, 2022",
+    "endDate": "Present",
+    "experiences": ["Spearheaded the creation of responsive and dynamic user interfaces with React.js and jQuery, employing web performance optimization techniques that enhanced load times and improved user experience.", 
+    "Expertly managed data with MySQL, streamlining backend processes to elevate system efficiency and proactively resolving defects related to data reporting and application UI.",
+  "Fostered strong collaboration with designers, product managers, and QA teams to ensure projects were delivered on schedule. During ILP, led a team of 9 associates in organizing and hosting a successful online event, showcasing leadership and organizational skills. ",
+  "Recognized for outstanding performance during ILP training, reflecting a commitment to excellence and a drive for continuous improvement.",
+  "Successfully delivered innovative solutions for Catering Rewards and Founder Crate, driving customer loyalty and transforming fundraising processes."
   ]
+  },
+  {
+    "role": "Software Developer and Tester",
+    "organisation": "Softevia LLP",
+    "startDate": "May 2021",
+    "endDate": "Apr 2022",
+    "experiences": ["Utilized Selenium for testing to ensure the functionality and reliability of the applications, identifying and fixing bugs efficiently, resulting in 50% reduction in post deployment issues.",
+  "Was in continuous touch with clients to understand their requirements, ensuring that the project aligned with their needs.",
+  "Worked on developing the frontend using ReactJs, contributing to the creation of responsive and dynamic web applications, improving responsiveness by 20%.",
+  "Led a team during project development, using Jira to manage people and tasks effectively, ensuring 100% on-time project delivery."
+  ]
+  }
+]
